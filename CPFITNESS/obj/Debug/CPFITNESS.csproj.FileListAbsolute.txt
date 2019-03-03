@@ -1,0 +1,11 @@
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\bin\Debug\CPFITNESS.exe.config
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\bin\Debug\CPFITNESS.exe
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\bin\Debug\CPFITNESS.pdb
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.csprojAssemblyReference.cache
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.CpMain.resources
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.LoginForm.resources
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.Properties.Resources.resources
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.csproj.GenerateResource.cache
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.csproj.CoreCompileInputs.cache
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.exe
+C:\Users\Eduards\Desktop\CPFITNESS\CPFITNESS\obj\Debug\CPFITNESS.pdb
